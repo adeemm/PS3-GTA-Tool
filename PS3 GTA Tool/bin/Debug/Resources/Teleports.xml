@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Locations>
+  <Place Name="10 Car Garage Back Room">
+    <XCoord>223.193</XCoord>
+    <YCoord>-967.322</YCoord>
+    <ZCoord>99.000</ZCoord>
+  </Place>
+  <Place Name="400k Garage">
+    <XCoord>-795.46</XCoord>
+    <YCoord>308.89</YCoord>
+    <ZCoord>85.71</ZCoord>
+  </Place>
+  <Place Name="400k Apartment">
+    <XCoord>-775.05</XCoord>
+    <YCoord>312.32</YCoord>
+    <ZCoord>85.7</ZCoord>
+  </Place>
+  <Place Name="Abandoned Mine">
+    <XCoord>-595.342</XCoord>
+    <YCoord>2086.008</YCoord>
+    <ZCoord>131.412</ZCoord>
+  </Place>
+  <Place Name="Airplane Graveyard Airplane Tail">
+    <XCoord>2395.096</XCoord>
+    <YCoord>3049.616</YCoord>
+    <ZCoord>60.053</ZCoord>
+  </Place>
+  <Place Name="Airport Airstrip">
+    <XCoord>-1336.000</XCoord>
+    <YCoord>-3044.000</YCoord>
+    <ZCoord>13.900</ZCoord>
+  </Place>
+  <Place Name="Airport Helipad">
+    <XCoord>-1102.290</XCoord>
+    <YCoord>-2894.520</YCoord>
+    <ZCoord>13.947</ZCoord>
+  </Place>
+  <Place Name="Airport Terminal">
+    <XCoord>-1556.64</XCoord>
+    <YCoord>-3234.5</YCoord>
+    <ZCoord>26.34</ZCoord>
+  </Place>
+  <Place Name="Altruist Cult Camp">
+    <XCoord>-1170.841</XCoord>
+    <YCoord>4926.646</YCoord>
+    <ZCoord>224.295</ZCoord>
+  </Place>
+  <Place Name="Ammunation Gun Range">
+    <XCoord>22.153</XCoord>
+    <YCoord>-1072.854</YCoord>
+    <ZCoord>29.797</ZCoord>
+  </Place>
+  <Place Name="Ammunation Office">
+    <XCoord>12.494</XCoord>
+    <YCoord>-1110.130</YCoord>
+    <ZCoord>29.797</ZCoord>
+  </Place>
+  <Place Name="Beach Skatepark">
+    <XCoord>-1374.881</XCoord>
+    <YCoord>-1398.835</YCoord>
+    <ZCoord>6.141</ZCoord>
+  </Place>
+  <Place Name="Behind Bar In Strip Club">
+    <XCoord>126.1211</XCoord>
+    <YCoord>-1278.5130</YCoord>
+    <ZCoord>29.2696</ZCoord>
+  </Place>
+  <Place Name="Blaine County Savings Bank">
+    <XCoord>-109.299</XCoord>
+    <YCoord>6464.035</YCoord>
+    <ZCoord>31.627</ZCoord>
+  </Place>
+  <Place Name="Burnt FIB Building">
+    <XCoord>160.868</XCoord>
+    <YCoord>-745.831</YCoord>
+    <ZCoord>250.063</ZCoord>
+  </Place>
+  <Place Name="Calafia Train Bridge">
+    <XCoord>-517.869</XCoord>
+    <YCoord>4425.284</YCoord>
+    <ZCoord>89.795</ZCoord>
+  </Place>
+  <Place Name="Car Impound">
+    <XCoord>391.4746</XCoord>
+    <YCoord>-1637.9750</YCoord>
+    <ZCoord>29.3153</ZCoord>
+  </Place>
+  <Place Name="Cargo Ship">
+    <XCoord>899.678</XCoord>
+    <YCoord>-2882.191</YCoord>
+    <ZCoord>19.013</ZCoord>
+  </Place>
+  <Place Name="Casino">
+    <XCoord>925.329</XCoord>
+    <YCoord>46.152</YCoord>
+    <ZCoord>80.908</ZCoord>
+  </Place>
+  <Place Name="Chicken">
+    <XCoord>-31.010</XCoord>
+    <YCoord>6316.830</YCoord>
+    <ZCoord>40.083</ZCoord>
+  </Place>
+  <Place Name="Chumash Historic Family Pier">
+    <XCoord>-3426.683</XCoord>
+    <YCoord>967.738</YCoord>
+    <ZCoord>8.347</ZCoord>
+  </Place>
+  <Place Name="Dead Sea Monster">
+    <XCoord>-3373.726</XCoord>
+    <YCoord>504.714</YCoord>
+    <ZCoord>-24.656</ZCoord>
+  </Place>
+  <Place Name="Del Perro Pier">
+    <XCoord>-1850.127</XCoord>
+    <YCoord>-1231.751</YCoord>
+    <ZCoord>13.017</ZCoord>
+  </Place>
+  <Place Name="Devin Weston's House">
+    <XCoord>-2639.872</XCoord>
+    <YCoord>1866.812</YCoord>
+    <ZCoord>160.135</ZCoord>
+  </Place>
+  <Place Name="El Gordo Lighthouse">
+    <XCoord>3430.155</XCoord>
+    <YCoord>5174.196</YCoord>
+    <ZCoord>41.280</ZCoord>
+  </Place>
+  <Place Name="Elysian Island Base">
+    <XCoord>574.3914</XCoord>
+    <YCoord>-3121.3220</YCoord>
+    <ZCoord>18.7687</ZCoord>
+  </Place>
+  <Place Name="Empty Room (In Strip Club)">
+    <XCoord>134.1213</XCoord>
+    <YCoord>-1289.5810</YCoord>
+    <ZCoord>29.2696</ZCoord>
+  </Place>
+  <Place Name="Epsilon Building">
+    <XCoord>-695.025</XCoord>
+    <YCoord>82.955</YCoord>
+    <ZCoord>55.855</ZCoord>
+  </Place>
+  <field>55.855</field>
+  <Place Name="FIB Roof">
+    <XCoord>150.126</XCoord>
+    <YCoord>-754.591</YCoord>
+    <ZCoord>262.865</ZCoord>
+  </Place>
+  <Place Name="FIB Top Floor">
+    <XCoord>135.733</XCoord>
+    <YCoord>-749.216</YCoord>
+    <ZCoord>258.152</ZCoord>
+  </Place>
+  <Place Name="Floyd's Apartment">
+    <XCoord>-1150.703</XCoord>
+    <YCoord>-1520.713</YCoord>
+    <ZCoord>10.633</ZCoord>
+  </Place>
+  <Place Name="Fort Zancudo ATC Entrance">
+    <XCoord>-2344.373</XCoord>
+    <YCoord>3267.498</YCoord>
+    <ZCoord>32.811</ZCoord>
+  </Place>
+  <Place Name="Fort Zancudo ATC Top Floor">
+    <XCoord>-2358.132</XCoord>
+    <YCoord>3249.754</YCoord>
+    <ZCoord>101.451</ZCoord>
+  </Place>
+  <Place Name="Franklin's Aunt's House">
+    <XCoord>-14.58</XCoord>
+    <YCoord>-1429.42</YCoord>
+    <ZCoord>31.1</ZCoord>
+  </Place>
+  <Place Name="Franklin's House">
+    <XCoord>7.22</XCoord>
+    <YCoord>536.97</YCoord>
+    <ZCoord>176.03</ZCoord>
+  </Place>
+  <Place Name="Galileo Observatory Roof">
+    <XCoord>-438.804</XCoord>
+    <YCoord>1076.097</YCoord>
+    <ZCoord>352.411</ZCoord>
+  </Place>
+  <Place Name="GO Postal">
+    <XCoord>65.71418</XCoord>
+    <YCoord>113.63</YCoord>
+    <ZCoord>79.105</ZCoord>
+  </Place>
+  <Place Name="God's Thumb">
+    <XCoord>-1006.402</XCoord>
+    <YCoord>6272.383</YCoord>
+    <ZCoord>1.503</ZCoord>
+  </Place>
+  <Place Name="Hidden Garage">
+    <XCoord>-20.4297</XCoord>
+    <YCoord>-685.1064</YCoord>
+    <ZCoord>32.3381</ZCoord>
+  </Place>
+  <Place Name="Hippy Camp">
+    <XCoord>2476.712</XCoord>
+    <YCoord>3789.645</YCoord>
+    <ZCoord>41.226</ZCoord>
+  </Place>
+  <Place Name="Hospital Helipads">
+    <XCoord>322.0547</XCoord>
+    <YCoord>-1448.0380</YCoord>
+    <ZCoord>46.5095</ZCoord>
+  </Place>
+  <Place Name="Humane Labs Entrance">
+    <XCoord>3619.749</XCoord>
+    <YCoord>2742.740</YCoord>
+    <ZCoord>28.690</ZCoord>
+  </Place>
+  <Place Name="Humane Labs Tunnel">
+    <XCoord>3525.495</XCoord>
+    <YCoord>3705.301</YCoord>
+    <ZCoord>20.992</ZCoord>
+  </Place>
+  <Place Name="IAA Office">
+    <XCoord>117.220</XCoord>
+    <YCoord>-620.938</YCoord>
+    <ZCoord>206.047</ZCoord>
+  </Place>
+  <Place Name="IAA Roof">
+    <XCoord>134.085</XCoord>
+    <YCoord>-637.859</YCoord>
+    <ZCoord>262.851</ZCoord>
+  </Place>
+  <Place Name="Inside Casino">
+    <XCoord>937.4780</XCoord>
+    <YCoord>42.6430</YCoord>
+    <ZCoord>80.8990</ZCoord>
+  </Place>
+  <Place Name="Inside FIB Building">
+    <XCoord>161.43</XCoord>
+    <YCoord>-762.96</YCoord>
+    <ZCoord>246.15</ZCoord>
+  </Place>
+  <Place Name="Inside FIB Roof">
+    <XCoord>154.08</XCoord>
+    <YCoord>-760.1</YCoord>
+    <ZCoord>258.15</ZCoord>
+  </Place>
+  <Place Name="Inside Gun Range">
+    <XCoord>22.8683</XCoord>
+    <YCoord>-1073.7510</YCoord>
+    <ZCoord>29.7970</ZCoord>
+  </Place>
+  <Place Name="Jet Spawn Point 1">
+    <XCoord>-2019.0620</XCoord>
+    <YCoord>2956.4530</YCoord>
+    <ZCoord>32.8101</ZCoord>
+  </Place>
+  <Place Name="Jet Spawn Point 2">
+    <XCoord>-2148.3510</XCoord>
+    <YCoord>3031.7620</YCoord>
+    <ZCoord>32.8099</ZCoord>
+  </Place>
+  <Place Name="Jolene Cranley-Evans Ghost">
+    <XCoord>3059.620</XCoord>
+    <YCoord>5564.246</YCoord>
+    <ZCoord>197.091</ZCoord>
+  </Place>
+  <Place Name="Kill Boost Island">
+    <XCoord>-2177.4400</XCoord>
+    <YCoord>5182.5960</YCoord>
+    <ZCoord>16.4753</ZCoord>
+  </Place>
+  <Place Name="Kortz Center">
+    <XCoord>-2243.810</XCoord>
+    <YCoord>264.048</YCoord>
+    <ZCoord>174.615</ZCoord>
+  </Place>
+  <Place Name="La Puerta Freeway Bridge">
+    <XCoord>-543.932</XCoord>
+    <YCoord>-2225.543</YCoord>
+    <ZCoord>122.366</ZCoord>
+  </Place>
+  <Place Name="Land Act Dam">
+    <XCoord>1660.369</XCoord>
+    <YCoord>-12.013</YCoord>
+    <ZCoord>170.020</ZCoord>
+  </Place>
+  <Place Name="Lester's House">
+    <XCoord>1273.898</XCoord>
+    <YCoord>-1719.304</YCoord>
+    <ZCoord>54.771</ZCoord>
+  </Place>
+  <Place Name="Liquor Ace">
+    <XCoord>1397.54</XCoord>
+    <YCoord>3607.58</YCoord>
+    <ZCoord>38.94</ZCoord>
+  </Place>
+  <Place Name="Little Portola">
+    <XCoord>-635.463</XCoord>
+    <YCoord>-242.402</YCoord>
+    <ZCoord>38.175</ZCoord>
+  </Place>
+  <Place Name="Little Seoul">
+    <XCoord>-889.655</XCoord>
+    <YCoord>-853.499</YCoord>
+    <ZCoord>20.566</ZCoord>
+  </Place>
+  <Place Name="Lookout">
+    <XCoord>-179.9843</XCoord>
+    <YCoord>6150.4780</YCoord>
+    <ZCoord>42.6373</ZCoord>
+  </Place>
+  <Place Name="Los Santos Golf Club">
+    <XCoord>-1336.715</XCoord>
+    <YCoord>59.051</YCoord>
+    <ZCoord>55.246</ZCoord>
+  </Place>
+  <Place Name="Main Los Santos Customs">
+    <XCoord>-365.425</XCoord>
+    <YCoord>-131.809</YCoord>
+    <ZCoord>37.873</ZCoord>
+  </Place>
+  <Place Name="Marlowe Vineyards">
+    <XCoord>-1868.971</XCoord>
+    <YCoord>2095.674</YCoord>
+    <ZCoord>139.115</ZCoord>
+  </Place>
+  <Place Name="Maze Bank Arena Roof">
+    <XCoord>-324.300</XCoord>
+    <YCoord>-1968.545</YCoord>
+    <ZCoord>67.002</ZCoord>
+  </Place>
+  <Place Name="Maze Bank Roof">
+    <XCoord>-75.015</XCoord>
+    <YCoord>-818.215</YCoord>
+    <ZCoord>326.176</ZCoord>
+  </Place>
+  <Place Name="Merryweather Dock">
+    <XCoord>486.417</XCoord>
+    <YCoord>-3339.692</YCoord>
+    <ZCoord>6.070</ZCoord>
+  </Place>
+  <Place Name="Michael's House">
+    <XCoord>-814.21</XCoord>
+    <YCoord>179.58</YCoord>
+    <ZCoord>72.16</ZCoord>
+  </Place>
+  <Place Name="Mile High Club">
+    <XCoord>-144.274</XCoord>
+    <YCoord>-946.813</YCoord>
+    <ZCoord>269.135</ZCoord>
+  </Place>
+  <Place Name="Mirror Park">
+    <XCoord>1070.206</XCoord>
+    <YCoord>-711.958</YCoord>
+    <ZCoord>58.483</ZCoord>
+  </Place>
+  <Place Name="Mors Mutual Impound">
+    <XCoord>-222.1977</XCoord>
+    <YCoord>-1185.8500</YCoord>
+    <ZCoord>23.0294</ZCoord>
+  </Place>
+  <Place Name="Most Northerly Point">
+    <XCoord>24.775</XCoord>
+    <YCoord>7644.102</YCoord>
+    <ZCoord>19.055</ZCoord>
+  </Place>
+  <Place Name="Mount Gordo">
+    <XCoord>2877.633</XCoord>
+    <YCoord>5911.078</YCoord>
+    <ZCoord>369.624</ZCoord>
+  </Place>
+  <Place Name="NOOSE Headquarters">
+    <XCoord>2535.243</XCoord>
+    <YCoord>-383.799</YCoord>
+    <ZCoord>92.993</ZCoord>
+  </Place>
+  <Place Name="Oriental Theater">
+    <XCoord>293.089</XCoord>
+    <YCoord>180.466</YCoord>
+    <ZCoord>104.301</ZCoord>
+  </Place>
+  <Place Name="Pacific Bluffs Country Club">
+    <XCoord>-3022.222</XCoord>
+    <YCoord>39.968</YCoord>
+    <ZCoord>13.611</ZCoord>
+  </Place>
+  <Place Name="Pacific Standard Bank Vault">
+    <XCoord>255.851</XCoord>
+    <YCoord>217.030</YCoord>
+    <ZCoord>101.683</ZCoord>
+  </Place>
+  <Place Name="Pacific Standard Bank">
+    <XCoord>235.046</XCoord>
+    <YCoord>216.434</YCoord>
+    <ZCoord>106.287</ZCoord>
+  </Place>
+  <Place Name="Paleto Bay Pier">
+    <XCoord>-275.522</XCoord>
+    <YCoord>6635.835</YCoord>
+    <ZCoord>7.425</ZCoord>
+  </Place>
+  <Place Name="Paleto Forest Sawmill Chimney">
+    <XCoord>-549.467</XCoord>
+    <YCoord>5308.221</YCoord>
+    <ZCoord>114.146</ZCoord>
+  </Place>
+  <Place Name="Palmer-Taylor Power Station Chimney">
+    <XCoord>2732.931</XCoord>
+    <YCoord>1577.540</YCoord>
+    <ZCoord>83.671</ZCoord>
+  </Place>
+  <Place Name="Play Boy Mansion">
+    <XCoord>-1475.234</XCoord>
+    <YCoord>167.088</YCoord>
+    <ZCoord>55.841</ZCoord>
+  </Place>
+  <Place Name="Police Station">
+    <XCoord>436.491</XCoord>
+    <YCoord>-982.172</YCoord>
+    <ZCoord>30.699</ZCoord>
+  </Place>
+  <Place Name="Private Garage">
+    <XCoord>3601.383</XCoord>
+    <YCoord>3668.793</YCoord>
+    <ZCoord>33.872</ZCoord>
+  </Place>
+  <Place Name="Quarry">
+    <XCoord>2954.196</XCoord>
+    <YCoord>2783.410</YCoord>
+    <ZCoord>41.004</ZCoord>
+  </Place>
+  <Place Name="Rebel Radio">
+    <XCoord>736.153</XCoord>
+    <YCoord>2583.143</YCoord>
+    <ZCoord>79.634</ZCoord>
+  </Place>
+  <Place Name="Research Lab Facility">
+    <XCoord>3619.96</XCoord>
+    <YCoord>3731.47</YCoord>
+    <ZCoord>28.69</ZCoord>
+  </Place>
+  <Place Name="Rocket">
+    <XCoord>1608.698</XCoord>
+    <YCoord>6438.096</YCoord>
+    <ZCoord>37.637</ZCoord>
+  </Place>
+  <Place Name="Rooftop Rumble Drop Off">
+    <XCoord>-1025.44</XCoord>
+    <YCoord>697.55</YCoord>
+    <ZCoord>161.7</ZCoord>
+  </Place>
+  <Place Name="Sandy Shores Building Site Crane">
+    <XCoord>1051.209</XCoord>
+    <YCoord>2280.452</YCoord>
+    <ZCoord>89.727</ZCoord>
+  </Place>
+  <Place Name="Satellite Dish Antenna">
+    <XCoord>2034.988</XCoord>
+    <YCoord>2953.105</YCoord>
+    <ZCoord>74.602</ZCoord>
+  </Place>
+  <Place Name="Satellite Dishes Base">
+    <XCoord>2062.123</XCoord>
+    <YCoord>2942.055</YCoord>
+    <ZCoord>47.431</ZCoord>
+  </Place>
+  <Place Name="Sisyphus Theater Stage">
+    <XCoord>205.316</XCoord>
+    <YCoord>1167.378</YCoord>
+    <ZCoord>227.005</ZCoord>
+  </Place>
+  <Place Name="Snowman">
+    <XCoord>971.245</XCoord>
+    <YCoord>-1620.993</YCoord>
+    <ZCoord>30.111</ZCoord>
+  </Place>
+  <Place Name="Stab City">
+    <XCoord>126.975</XCoord>
+    <YCoord>3714.419</YCoord>
+    <ZCoord>46.827</ZCoord>
+  </Place>
+  <Place Name="Sunken Body">
+    <XCoord>-3161.078</XCoord>
+    <YCoord>3001.998</YCoord>
+    <ZCoord>-37.974</ZCoord>
+  </Place>
+  <Place Name="Sunken Cargo Ship">
+    <XCoord>3199.748</XCoord>
+    <YCoord>-379.018</YCoord>
+    <ZCoord>-22.500</ZCoord>
+  </Place>
+  <Place Name="Sunken Plane">
+    <XCoord>-942.350</XCoord>
+    <YCoord>6608.752</YCoord>
+    <ZCoord>-20.912</ZCoord>
+  </Place>
+  <Place Name="Tallest Building/Helipad">
+    <XCoord>-74.94243</XCoord>
+    <YCoord>-818.63446</YCoord>
+    <ZCoord>326.174347</ZCoord>
+  </Place>
+  <Place Name="Tallest Crane Location 1">
+    <XCoord>-167.982162</XCoord>
+    <YCoord>-1001.92651</YCoord>
+    <ZCoord>296.206055</ZCoord>
+  </Place>
+  <Place Name="Tallest Crane Location 2">
+    <XCoord>-120.350769</XCoord>
+    <YCoord>-977.8608</YCoord>
+    <ZCoord>304.247833</ZCoord>
+  </Place>
+  <Place Name="Tallest Crane Location 3">
+    <XCoord>-119.859985</XCoord>
+    <YCoord>-976.43866</YCoord>
+    <ZCoord>306.3385</ZCoord>
+  </Place>
+  <Place Name="The Richman Hotel">
+    <XCoord>-1330.911</XCoord>
+    <YCoord>340.871</YCoord>
+    <ZCoord>64.078</ZCoord>
+  </Place>
+  <Place Name="Top Of The Mt Chilad">
+    <XCoord>450.718</XCoord>
+    <YCoord>5566.614</YCoord>
+    <ZCoord>806.183</ZCoord>
+  </Place>
+  <Place Name="Torture Room">
+    <XCoord>147.170</XCoord>
+    <YCoord>-2201.804</YCoord>
+    <ZCoord>4.688</ZCoord>
+  </Place>
+  <Place Name="Trevor's Meth Lab">
+    <XCoord>1391.773</XCoord>
+    <YCoord>3608.716</YCoord>
+    <ZCoord>38.942</ZCoord>
+  </Place>
+  <Place Name="Under Bridge Glitch">
+    <XCoord>721.6599</XCoord>
+    <YCoord>-1000.6510</YCoord>
+    <ZCoord>23.5455</ZCoord>
+  </Place>
+  <Place Name="Underpass Skatepark">
+    <XCoord>718.341</XCoord>
+    <YCoord>-1218.714</YCoord>
+    <ZCoord>26.014</ZCoord>
+  </Place>
+  <Place Name="Underwater Hatch">
+    <XCoord>4273.950</XCoord>
+    <YCoord>2975.714</YCoord>
+    <ZCoord>-170.746</ZCoord>
+  </Place>
+  <Place Name="Underwater UFO">
+    <XCoord>762.426</XCoord>
+    <YCoord>7380.371</YCoord>
+    <ZCoord>-111.377</ZCoord>
+  </Place>
+  <Place Name="Underwater WW2 Tank">
+    <XCoord>4201.633</XCoord>
+    <YCoord>3643.821</YCoord>
+    <ZCoord>-39.016</ZCoord>
+  </Place>
+  <Place Name="University Of San Andreas">
+    <XCoord>-1696.866</XCoord>
+    <YCoord>142.747</YCoord>
+    <ZCoord>64.372</ZCoord>
+  </Place>
+  <Place Name="Very High Up">
+    <XCoord>-129.964</XCoord>
+    <YCoord>8130.873</YCoord>
+    <ZCoord>6705.307</ZCoord>
+  </Place>
+  <Place Name="Vinewood Bowl Stage">
+    <XCoord>686.245</XCoord>
+    <YCoord>577.950</YCoord>
+    <ZCoord>130.461</ZCoord>
+  </Place>
+  <Place Name="Vinewood Sign">
+    <XCoord>711.362</XCoord>
+    <YCoord>1198.134</YCoord>
+    <ZCoord>348.526</ZCoord>
+  </Place>
+  <Place Name="Wayne's Cousin's Apartment">
+    <XCoord>-1155.44</XCoord>
+    <YCoord>-1155.44</YCoord>
+    <ZCoord>10.63</ZCoord>
+  </Place>
+</Locations>

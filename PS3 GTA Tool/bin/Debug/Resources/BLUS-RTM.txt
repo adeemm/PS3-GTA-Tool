@@ -1,0 +1,10 @@
+[1.26]
+ammoOffset1 = 0xFE6CB4
+ammoOffset2 = 0xFF2030
+animalFreezeFix1 = 0x114BE38
+animalFreezeFix2 = 0x11C8F48
+animalFreezeFix3 = 0x1DA3F0
+copsOffset = 0x1055AF0
+godModeOffset = 0x119FEF8
+waypointX = 0x1D6AC40
+waypointY = 0x1D6AC44

@@ -1,0 +1,15 @@
+﻿[1.22]
+SFA1 = 0x1beb600
+EFA1 = 0x1beb688
+SFA2 = 0x1beb700
+EFA2 = 0x1beb788
+SFA3 = 0x1beb800
+EFA3 = 0x1beb888
+BFA1 = 0x1abcc
+BAB1 = 0x1ab98
+BFA2 = 0x126a0d0
+BAB2 = 0x126a0d8
+BFA3 = 0x126a72c
+BAB3 = 0x126a734
+rpcEnableOffset = 0x1beb600
+rpcEnableValue = 0xF821FF91

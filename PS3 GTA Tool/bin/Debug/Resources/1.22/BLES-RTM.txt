@@ -1,0 +1,7 @@
+﻿[1.22]
+ammoOffset1 = 0xFC5684
+ammoOffset2 = 0xFD23B0
+copsOffset = 0x1035200
+godModeOffset = 0x117D068
+waypointX = 0x1D4A540
+waypointY = 0x1D4A544
